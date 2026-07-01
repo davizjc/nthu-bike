@@ -1,0 +1,8 @@
+# build artifacts
+109006201_proj/bin/main
+109006201_proj/bin/*.dSYM/
+*.o
+*.dSYM/
+
+# generated simulation output (reproduce with `make run` / run_tests.sh)
+109006201_proj/result/
